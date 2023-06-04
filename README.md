@@ -1,4 +1,5 @@
-## Laboratory work V
+[![Coverage Status](https://coveralls.io/repos/github/GOSICK070404/lab05-1/badge.svg?branch=refs/heads/master)](https://coveralls.io/github/GOSICK070404/lab05-1?branch=refs/heads/master)
+## Laboratory work V by Polyakov Andrey
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
 
